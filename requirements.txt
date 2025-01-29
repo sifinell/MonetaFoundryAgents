@@ -1,0 +1,8 @@
+azure-ai-projects
+azure-identity
+python-dotenv
+pyyaml
+azure-cosmos
+requests-html
+pandas
+lxml_html_clean
