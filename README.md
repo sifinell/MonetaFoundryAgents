@@ -31,6 +31,8 @@ The `.env` file contains essential configuration details required for this repo 
 
 - **Project details** → **Project connection string**
 
+![image](https://github.com/user-attachments/assets/3925ad10-05e9-4ccd-a654-9ed429744ce6)
+
 Ensure the `.env` file is correctly placed in the root directory of the project.
 
 ## Running the Code
@@ -70,8 +72,3 @@ Can you update me on the UBS 100 Index Switzerland Equity Fund CHF?
 ## License
 
 This project is part of the [Azure Samples](https://github.com/Azure-Samples) collection and follows the associated licensing terms.
-
----
-
-This README provides step-by-step configuration instructions to help you set up and run Moneta effectively.
-
