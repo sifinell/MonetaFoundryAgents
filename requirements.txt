@@ -6,3 +6,4 @@ azure-cosmos
 requests-html
 pandas
 lxml_html_clean
+semantic-kernel
